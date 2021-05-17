@@ -1,3 +1,7 @@
+[![GoDoc](https://godoc.org/github.com/subbuv26/fakehttpclient?status.svg)](https://pkg.go.dev/github.com/subbuv26/fakehttpclient)
+[![Go Report Card](https://goreportcard.com/badge/github.com/subbuv26/fakehttpclient)](https://goreportcard.com/report/github.com/subbuv26/fakehttpclient)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 # Fake HTTP Client
 
 A fake http client that acts a http client and serves requests as per the needs of tests.
