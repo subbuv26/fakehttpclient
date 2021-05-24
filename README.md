@@ -2,6 +2,9 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/subbuv26/fakehttpclient)](https://goreportcard.com/report/github.com/subbuv26/fakehttpclient)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+***Archived***
+Please visit https://github.com/subbuv26/mockhttpclient
+
 # Fake HTTP Client
 
 A fake http client that acts a http client and serves requests as per the needs of tests.
